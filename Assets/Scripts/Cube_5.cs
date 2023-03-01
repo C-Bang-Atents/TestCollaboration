@@ -6,6 +6,6 @@ public class Cube_5 : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Cube »ı¼ºÀÚ : ÀÎÁöÈÆ");
+        Debug.Log("Cube ìƒì„±ì : ì¸ì§€í›ˆ");
     }
 }
